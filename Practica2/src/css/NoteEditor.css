@@ -1,0 +1,6 @@
+/* NoteEditor.css */
+
+.form-floating .form-control#noteContent {
+    height: auto;
+    min-height: 100px;
+}
